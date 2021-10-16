@@ -28,6 +28,10 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Automating requests in postman which require Authorization](https://dev.to/angrybuddha24/automating-requests-in-postman-which-require-authorization-mb1)
+- [Eclipse IDE Shortcuts - A quick reference guide](https://dev.to/angrybuddha24/eclipse-ide-shortcuts-a-quick-reference-guide-53gg)
+- [Handling Bootstrap Dropdowns in Selenium](https://dev.to/angrybuddha24/handling-bootstrap-dropdowns-in-selenium-2aei)
+- [Downloading Maven jars inside a project folder](https://dev.to/angrybuddha24/downloading-maven-jars-inside-a-project-folder-2hh4)
 <!-- BLOG-POST-LIST:END -->
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=angrybuddha24&show_icons=true&locale=en&layout=compact" alt="angrybuddha24" /></p>
