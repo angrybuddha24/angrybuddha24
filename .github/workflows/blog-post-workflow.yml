@@ -12,6 +12,6 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v2
       - name: Pull in dev.to posts
-        uses: angrybuddha24/angrybuddha24@master
+        uses: angrybuddha24/angrybuddha24@main
         with:
           feed_list: "https://dev.to/feed/angrybuddha24"
