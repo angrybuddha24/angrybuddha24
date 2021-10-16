@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Python and Java**
 
-- 👯 I’m looking to collaborate on **Test**
+- 👯 I’m looking to collaborate on **Testing software and writing tech blogs**
 
 - 🤝 I’m looking for help with **enhancing a framework that I am building**
 
