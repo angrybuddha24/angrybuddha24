@@ -12,6 +12,7 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v2
       - name: Pull in dev.to posts
-        uses: angrybuddha24/angrybuddha24@main
+        uses: gautamkrishnar/blog-post-workflow@master
         with:
+          max_post_count: "4"
           feed_list: "https://dev.to/feed/angrybuddha24"
