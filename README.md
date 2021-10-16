@@ -26,6 +26,10 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> <img src=https://cdn.worldvectorlogo.com/logos/intellij-idea-1.svg alt="IntelliJ Logo" width="40" height="40"/> <img src=https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg alt="VSCode Logo" width="40" height="40"/> <img src=https://cdn.worldvectorlogo.com/logos/concourse-1.svg alt="Concourse Logo" width="40" height="40"/> <img src=https://cdn.worldvectorlogo.com/logos/cucumber.svg alt="Cucumber Logo" width="40" height="40"/>  </a> </p>
 
+# Blog posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=angrybuddha24&show_icons=true&locale=en&layout=compact" alt="angrybuddha24" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=angrybuddha24&show_icons=true&locale=en" alt="angrybuddha24" /></p>
