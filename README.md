@@ -5,7 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=angrybuddha24" alt="angrybuddha24" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/angrybuddha24" target="blank"><img src="https://img.shields.io/twitter/follow/angrybuddha24?logo=twitter&style=for-the-badge" alt="angrybuddha24" /></a> </p>
+<!-- <p align="left"> <a href="https://twitter.com/angrybuddha24" target="blank"><img src="https://img.shields.io/twitter/follow/angrybuddha24?logo=twitter&style=for-the-badge" alt="angrybuddha24" /></a> </p> -->
+
+![Twitter Follow](https://img.shields.io/twitter/follow/angrybuddha24?style=social) ![GitHub followers](https://img.shields.io/github/followers/angrybuddha24?style=social)
 
 - 🔭 I’m currently working on **building a E2E solution for API + UI Automation Framework**
 
